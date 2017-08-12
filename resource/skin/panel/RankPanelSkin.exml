@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RankPanelSkin" width="540" height="878" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="bg" source="mrph_ban_png" horizontalCenter="0" verticalCenter="0"/>
+	<e:Group xmlns:e="http://ns.egret.com/eui" horizontalCenter="0.5" y="144">
+		<e:ViewStack id="viewStack" selectedIndex="0" y="-1">
+			<e:Group name="tab1">
+				<e:Image x="0" y="0" source="mrph_jinri_di_png"/>
+				<e:Image source="zq_jl_di_png" horizontalCenter="0.5" bottom="1"/>
+				<e:Image y="97.37" horizontalCenter="0.5" source="mrph_jinri_2_png"/>
+				<e:DataGroup id="todayGroup" width="454" height="594.33" y="137.67" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0.5" itemRendererSkinName="RankItem">
+					<e:layout>
+						<e:VerticalLayout horizontalAlign="center" verticalAlign="middle"/>
+					</e:layout>
+					<e:ArrayCollection>
+						<e:Array>
+							<e:Object source="mrph_tiao1_png" txt0="2066832" txt1="559金币" txt2="第1名"/>
+							<e:Object source="mrph_tiao2_png" txt0="494729" txt1="587金币" txt2="第2名"/>
+						</e:Array>
+					</e:ArrayCollection>
+				</e:DataGroup>
+			</e:Group>
+
+			<e:Group name="tab2">
+				<e:Image source="mrph_zuori_di_png" x="0" y="0"/>
+				<e:Image source="zq_jl_di_png" horizontalCenter="0.5" bottom="1"/>
+				<e:Image y="97.37" horizontalCenter="0.5" source="mrph_zuori_2_png"/>
+				<e:DataGroup id="yesterdayGroup" width="454" height="594.33" y="137.67" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0.5" itemRendererSkinName="RankItem">
+					<e:layout>
+						<e:VerticalLayout horizontalAlign="center" verticalAlign="middle"/>
+					</e:layout>
+					<e:ArrayCollection>
+						<e:Array>
+							<e:Object source="mrph_tiao1_png" txt0="2077772" txt1="5059金币" txt2="第3名"/>
+							<e:Object source="mrph_tiao2_png" txt0="3333729" txt1="5807金币" txt2="第4名"/>
+						</e:Array>
+					</e:ArrayCollection>
+				</e:DataGroup>
+			</e:Group>
+		</e:ViewStack>
+
+		<e:TabBar id="tabBar" y="-30" anchorOffsetX="0" width="326" height="60" horizontalCenter="0.5">
+			<e:ArrayCollection>
+				<e:Array>
+					<e:Object selected="mrph_jinri_png"/>
+					<e:Object selected="mrph_zuori_png"/>
+				</e:Array>
+			</e:ArrayCollection>
+			<e:layout>
+			<e:HorizontalLayout gap="80"/>
+			</e:layout>
+			<e:itemRendererSkinName>
+			<e:Skin states="up,down" height="60" width="123">
+				<e:Image source.down="zq_btn1_png" source.up="zq_btn2_png" horizontalCenter="0" verticalCenter="0"/>
+				<e:Image source="{data.selected}"  horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+			</e:itemRendererSkinName>
+		</e:TabBar>
+	</e:Group>
+	<e:Button id="closeBtn" label="" x="457" y="97" skinName="CloseButtonSkin"/>
+</e:Skin>

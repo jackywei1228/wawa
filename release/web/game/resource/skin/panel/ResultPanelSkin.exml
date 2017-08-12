@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ResultPanelSkin" width="456" height="614" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="ruzhang_bg_png" horizontalCenter="0" verticalCenter="0"/>
+	<e:Image id="closeBtn" source="ruzhang_bg_x_png" right="20" top="20"/>
+	<e:BitmapLabel id="result" height="77" y="135" font="font_2_fnt" text="4.81" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="-20"/>
+	<e:Image id="icon" source="jin01_png" y="138" x="336" scaleX="1.5" scaleY="1.5"/>
+	<e:Image id="continueBtn" source="btn_da_png" y="418" horizontalCenter="0.5"/>
+	<e:Image id="bigWin1" source="zjl_png" y="325" horizontalCenter="0" scaleX="0.7" scaleY="0.7"/>
+	<e:Image id="bigWin0" source="bfl_png" y="235" horizontalCenter="0" scaleX="0.7" scaleY="0.7"/>
+	<e:Image id="lose" source="wenzi_7_png" horizontalCenter="0" verticalCenter="0"/>
+</e:Skin>

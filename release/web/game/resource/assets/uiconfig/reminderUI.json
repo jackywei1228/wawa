@@ -1,0 +1,38 @@
+{
+ "imageArr": [
+  "wxts_bg.png"
+ ],
+ "list": [
+  {
+   "path": "wxts_bg.png",
+   "skx": 0,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "index": 0,
+   "x": 0,
+   "n": "reminderUI",
+   "y": 0,
+   "pn": "",
+   "sy": 1,
+   "type": "img_mc",
+   "sx": 1,
+   "bn": "normal",
+   "r": 0,
+   "sky": 0
+  }
+ ],
+ "version": 3,
+ "uiConfig": {
+  "height": 726,
+  "numchild": 1,
+  "width": 540
+ }
+}

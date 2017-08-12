@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+uglifyjs "game/libs/modules/egret/egret.min.js" "game/libs/modules/egret/egret.web.min.js" "game/libs/modules/game/game.min.js" "game/libs/modules/tween/tween.min.js" "game/libs/modules/res/res.min.js" "game/libs/modules/eui/eui.min.js" "game/polyfill/promise.min.js" -m -o "game/lib.min.js"

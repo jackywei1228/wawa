@@ -1,0 +1,90 @@
+{
+ "imageArr": [
+  "txqr_bg.png",
+  "btn_txqr.png",
+  "colse.png"
+ ],
+ "list": [
+  {
+   "path": "txqr_bg.png",
+   "pn": "",
+   "skx": 0,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "x": 0,
+   "index": 0,
+   "sy": 1,
+   "n": "pushWnd",
+   "y": 0,
+   "sky": 0,
+   "type": "img_mc",
+   "sx": 1,
+   "bn": "normal",
+   "r": 0
+  },
+  {
+   "path": "btn_txqr.png",
+   "pn": "",
+   "skx": 0,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "x": 163,
+   "index": 1,
+   "sy": 1,
+   "n": "pushBnt",
+   "y": 445,
+   "sky": 0,
+   "type": "img_mc",
+   "sx": 1,
+   "bn": "normal",
+   "r": 0
+  },
+  {
+   "path": "colse.png",
+   "pn": "",
+   "skx": 0,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "x": 464,
+   "index": 2,
+   "sy": 1,
+   "n": "closeBnt",
+   "y": 16,
+   "sky": 0,
+   "type": "img_mc",
+   "sx": 1,
+   "bn": "normal",
+   "r": 0
+  }
+ ],
+ "version": 3,
+ "uiConfig": {
+  "numchild": 3,
+  "height": 726,
+  "width": 544.3
+ }
+}

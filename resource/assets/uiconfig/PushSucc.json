@@ -1,0 +1,93 @@
+{
+ "list": [
+  {
+   "path": "dhcgh_bg.png",
+   "skx": 0,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "sy": 1,
+   "index": 0,
+   "sx": 1,
+   "x": 0,
+   "bn": "normal",
+   "y": 0,
+   "type": "img_mc",
+   "n": "PushSucc",
+   "pn": "",
+   "r": 0,
+   "sky": 0
+  },
+  {
+   "path": "dhcgaaaaa.png",
+   "skx": 0,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "sy": 1,
+   "index": 1,
+   "sx": 1,
+   "x": 190,
+   "bn": "normal",
+   "y": 112,
+   "type": "img_mc",
+   "n": "title",
+   "pn": "",
+   "r": 0,
+   "sky": 0
+  },
+  {
+   "path": "btn_qd.png",
+   "skx": 0,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "sy": 1,
+   "index": 2,
+   "sx": 1,
+   "x": 193,
+   "bn": "normal",
+   "y": 589,
+   "type": "img_mc",
+   "n": "closeBnt",
+   "pn": "",
+   "r": 0,
+   "sky": 0
+  }
+ ],
+ "version": 3,
+ "imageArr": [
+  "bbg.png",
+  "loading_bar.png",
+  "loading_bg.png",
+  "dhcgh_bg.png",
+  "btn_qd.png",
+  "dhcgaaaaa.png"
+ ],
+ "uiConfig": {
+  "numchild": 3,
+  "height": 878,
+  "width": 540
+ }
+}

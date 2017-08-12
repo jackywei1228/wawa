@@ -1,0 +1,133 @@
+{
+ "imageArr": [
+  "ruzhang_bg.png",
+  "ruzhang_bg_x.png",
+  "ruzhang_btn1.png",
+  "ruzhang_btn2.png",
+  "bg.jpg",
+  "pingtai_hou.png",
+  "pingtai_qian.png",
+  "kuang.png",
+  "btn_2_down.png",
+  "5yuan.png",
+  "btn_2_up.png",
+  "10yuan.png",
+  "20yuan.png",
+  "touxiang.png",
+  "shengyu.png",
+  "btn_yxgz.png",
+  "btn_zqjq.png",
+  "gz_bg.png",
+  "btn_jxyx.png",
+  "wenzi_yxgz.png",
+  "wenzi_zqjq.png"
+ ],
+ "list": [
+  {
+   "path": "gz_bg.png",
+   "pn": "",
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "sky": 0,
+   "index": 0,
+   "skx": 0,
+   "x": 0,
+   "n": "RulesOrSkillUI",
+   "y": 0,
+   "type": "img_mc",
+   "sy": 1,
+   "sx": 1,
+   "r": 0,
+   "bn": "normal"
+  },
+  {
+   "path": "wenzi_yxgz.png",
+   "pn": "",
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "sky": 0,
+   "index": 1,
+   "skx": 0,
+   "x": 54,
+   "n": "rules",
+   "y": 53,
+   "type": "img_mc",
+   "sy": 1,
+   "sx": 1,
+   "r": 0,
+   "bn": "normal"
+  },
+  {
+   "path": "wenzi_zqjq.png",
+   "pn": "",
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "sky": 0,
+   "index": 2,
+   "skx": 0,
+   "x": 56,
+   "n": "skill",
+   "y": 55,
+   "type": "img_mc",
+   "sy": 1,
+   "sx": 1,
+   "r": 0,
+   "bn": "normal"
+  },
+  {
+   "path": "btn_jxyx.png",
+   "pn": "",
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "sky": 0,
+   "index": 3,
+   "skx": 0,
+   "x": 104,
+   "n": "continueBnt",
+   "y": 494,
+   "type": "img_mc",
+   "sy": 1,
+   "sx": 1,
+   "r": 0,
+   "bn": "normal"
+  }
+ ],
+ "version": 3,
+ "uiConfig": {
+  "height": 629,
+  "numchild": 4,
+  "width": 488
+ }
+}

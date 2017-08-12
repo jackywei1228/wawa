@@ -1,0 +1,90 @@
+{
+ "imageArr": [
+  "bg_tongyong.png",
+  "zq_2weima.png",
+  "btn_sc2vm.png"
+ ],
+ "version": 3,
+ "uiConfig": {
+  "numchild": 3,
+  "height": 878,
+  "width": 540
+ },
+ "list": [
+  {
+   "path": "bg_tongyong.png",
+   "sx": 1,
+   "sy": 1,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "index": 0,
+   "skx": 0,
+   "x": 0,
+   "sky": 0,
+   "y": 0,
+   "pn": "",
+   "type": "img_mc",
+   "n": "QrodeWnd",
+   "r": 0,
+   "bn": "normal"
+  },
+  {
+   "path": "zq_2weima.png",
+   "sx": 1,
+   "sy": 1,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "index": 1,
+   "skx": 0,
+   "x": 12,
+   "sky": 0,
+   "y": 95,
+   "pn": "",
+   "type": "img_mc",
+   "n": "QrodeWnd",
+   "r": 0,
+   "bn": "normal"
+  },
+  {
+   "path": "btn_sc2vm.png",
+   "sx": 1,
+   "sy": 1,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "index": 2,
+   "skx": 0,
+   "x": 81,
+   "sky": 0,
+   "y": 518,
+   "pn": "",
+   "type": "img_mc",
+   "n": "createQCode",
+   "r": 0,
+   "bn": "normal"
+  }
+ ]
+}

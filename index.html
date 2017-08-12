@@ -1,0 +1,161 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>欢乐微游夹娃娃</title>
+    <!--<base href ="http://cdn.cbiade.cn/game_zww2/Ver_2017_05_5_5/" />-->
+    <meta name="viewport" content="width=device-width,initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no"/>
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="full-screen" content="true"/>
+    <meta name="screen-orientation" content="portrait"/>
+    <meta name="x5-fullscreen" content="true"/>
+    <meta name="360-fullscreen" content="true"/>
+    <!--<script src="http://res.wx.qq.com/open/js/jweixin-1.0.0.js"></script>-->
+    <script language="javascript">
+
+        window.game_url = "http://jww.local.big188.com";
+        function geta(){
+            return 2565419;
+        }
+
+        function getCodeVer(){
+            return 'code_23';
+        }
+
+        function getb(){
+            return 'oXuE4v8FYvYVMLDhpeBM4vQPE85Y';
+        }
+
+        function getc(){
+            return 50;
+        }
+
+        function getd(){
+            return 100;
+        }
+
+        function gete(){
+            return 200;
+        }
+
+        function gotoUrl(url){
+            window.location.href=url;
+        }
+
+
+    </script>
+    <style>
+        html, body {
+            -ms-touch-action: none;
+            background: #888888;
+            /*background: #000000;*/
+            padding: 0;
+            border: 0;
+            margin: 0;
+            height: 100%;
+        }
+    </style>
+
+    <!--这个标签为通过egret提供的第三方库的方式生成的 javascript 文件。删除 modules_files 标签后，库文件加载列表将不会变化，请谨慎操作！-->
+    <!--modules_files_start-->
+	<script egret="lib" src="libs/modules/egret/egret.js" src-release="libs/modules/egret/egret.min.js"></script>
+	<script egret="lib" src="libs/modules/egret/egret.web.js" src-release="libs/modules/egret/egret.web.min.js"></script>
+	<script egret="lib" src="libs/modules/game/game.js" src-release="libs/modules/game/game.min.js"></script>
+	<script egret="lib" src="libs/modules/eui/eui.js" src-release="libs/modules/eui/eui.min.js"></script>
+	<script egret="lib" src="libs/modules/res/res.js" src-release="libs/modules/res/res.min.js"></script>
+	<script egret="lib" src="libs/modules/tween/tween.js" src-release="libs/modules/tween/tween.min.js"></script>
+	<!--modules_files_end-->
+
+    <!--这个标签为不通过egret提供的第三方库的方式使用的 javascript 文件，请将这些文件放在libs下，但不要放在modules下面。-->
+    <!--other_libs_files_start-->
+    <script egret="lib" src="polyfill/promise.min.js"></script>
+    <!--<script egret="lib" src="src/main.min.js"></script>-->
+    <!--other_libs_files_end-->
+
+
+
+    <!--这个标签会被替换为项目中所有的 javascript 文件。删除 game_files 标签后，项目文件加载列表将不会变化，请谨慎操作！-->
+    <!--game_files_start-->
+	<script egret="game" src="bin-debug/UI/BottomToggle.js"></script>
+	<script egret="game" src="bin-debug/util/Enum.js"></script>
+	<script egret="game" src="bin-debug/UI/panel/PanelName.js"></script>
+	<script egret="game" src="bin-debug/model/DataLoader.js"></script>
+	<script egret="game" src="bin-debug/model/GameData.js"></script>
+	<script egret="game" src="bin-debug/model/GameURL.js"></script>
+	<script egret="game" src="bin-debug/model/Notice.js"></script>
+	<script egret="game" src="bin-debug/model/Pay.js"></script>
+	<script egret="game" src="bin-debug/model/Sound.js"></script>
+	<script egret="game" src="bin-debug/model/User.js"></script>
+	<script egret="game" src="bin-debug/ThemeAdapter.js"></script>
+	<script egret="game" src="bin-debug/AssetAdapter.js"></script>
+	<script egret="game" src="bin-debug/UI/Headline.js"></script>
+	<script egret="game" src="bin-debug/UI/Icon.js"></script>
+	<script egret="game" src="bin-debug/UI/ISelectedButton.js"></script>
+	<script egret="game" src="bin-debug/UI/Layer.js"></script>
+	<script egret="game" src="bin-debug/UI/panel/BuyPanel.js"></script>
+	<script egret="game" src="bin-debug/UI/panel/ExchangePanel.js"></script>
+	<script egret="game" src="bin-debug/UI/panel/IPanel.js"></script>
+	<script egret="game" src="bin-debug/UI/panel/NoticePanel.js"></script>
+	<script egret="game" src="bin-debug/LoadingUI.js"></script>
+	<script egret="game" src="bin-debug/UI/panel/QRPanel.js"></script>
+	<script egret="game" src="bin-debug/UI/panel/RankPanel.js"></script>
+	<script egret="game" src="bin-debug/UI/panel/ResultPanel.js"></script>
+	<script egret="game" src="bin-debug/UI/panel/RulePanel.js"></script>
+	<script egret="game" src="bin-debug/UI/panel/ShopPanel.js"></script>
+	<script egret="game" src="bin-debug/UI/panel/SkillTipPanel.js"></script>
+	<script egret="game" src="bin-debug/UI/panel/StartTipPanel.js"></script>
+	<script egret="game" src="bin-debug/UI/panel/UIMgr.js"></script>
+	<script egret="game" src="bin-debug/UI/scene/GameScence.js"></script>
+	<script egret="game" src="bin-debug/UI/scene/Scence0.js"></script>
+	<script egret="game" src="bin-debug/UI/scene/Scence1.js"></script>
+	<script egret="game" src="bin-debug/UI/scene/Scence2.js"></script>
+	<script egret="game" src="bin-debug/UI/scene/Scence3.js"></script>
+	<script egret="game" src="bin-debug/UI/ToggleButtonGroup.js"></script>
+	<script egret="game" src="bin-debug/UI/UpIcon.js"></script>
+	<script egret="game" src="bin-debug/Main.js"></script>
+	<script egret="game" src="bin-debug/util/GroupName.js"></script>
+	<script egret="game" src="bin-debug/util/SoundMgr.js"></script>
+	<script egret="game" src="bin-debug/util/UIUtil.js"></script>
+	<script egret="game" src="bin-debug/util/WindowAdapter.js"></script>
+	<!--game_files_end-->
+</head>
+<body>
+
+<div id='gameDiv' style="margin: auto;width: 100%;height: 100%;" class="egret-player"
+     data-entry-class="Main"
+     data-orientation="portrait"
+     data-scale-mode="exactFit"
+     data-frame-rate="30"
+     data-content-width="540"
+     data-content-height="878"
+     data-show-paint-rect="false"
+     data-multi-fingered="2"
+     data-show-fps="false" data-show-log="false"
+     data-show-fps-style="x:0,y:0,size:12,textColor:0xffffff,bgAlpha:0.9">
+
+	<img id="kefu" src="" style="z-index:1000;position: absolute; display:none; width: 223.333px; height: 218.246px; left: 70px; top: 179.809px;">
+	<img id="share" style="z-index:2000;position: absolute; display:none; width: 287.333px; height: 460.597px; left: 36.6667px; top: 61.2392px;" src="">
+	<img id="closeBtn" style="z-index:3000;position: absolute; display:none; right:-10px; top:-10px;" src="resource/assets/images/ui/ruzhang_bg_x.png">
+
+</div>
+<script>
+    /**
+     * {
+         * "renderMode":, //引擎渲染模式，"canvas" 或者 "webgl"
+         * "audioType": "" //使用的音频类型，0:默认，1:qq audio，2:web audio，3:audio
+         * "antialias": //WebGL模式下是否开启抗锯齿，true:开启，false:关闭，默认为false
+         * }
+     **/
+    egret.runEgret({renderMode:"webgl",audioType:0});
+</script>
+
+<script>
+    window.onload = function () {
+        if (!window.applicationCache) {
+            alert("当前浏览器不支持HTML5,请更新浏览器版本");
+        }
+    }
+</script>
+
+</body>
+</html>

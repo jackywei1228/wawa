@@ -1,0 +1,71 @@
+{
+ "imageArr": [
+  "zq_bg_zj.png",
+  "zq_btn2.png",
+  "zq_zjjl_1.png",
+  "zq_btn1.png",
+  "zq_yj_1.png",
+  "zq_jl_di.png",
+  "zq_yj_di.png",
+  "zq_2vm_bg.png",
+  "btn_2vm.png"
+ ],
+ "uiConfig": {
+  "height": 878,
+  "numchild": 2,
+  "width": 540
+ },
+ "list": [
+  {
+   "path": "zq_2vm_bg.png",
+   "y": 0,
+   "r": 0,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "index": 0,
+   "x": 0,
+   "n": "QrodeWnd",
+   "skx": 0,
+   "sky": 0,
+   "type": "img_mc",
+   "bn": "normal",
+   "sx": 1,
+   "pn": "",
+   "sy": 1
+  },
+  {
+   "path": "btn_2vm.png",
+   "y": 393,
+   "r": 0,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "index": 1,
+   "x": 103,
+   "n": "createQCode",
+   "skx": 0,
+   "sky": 0,
+   "type": "img_mc",
+   "bn": "normal",
+   "sx": 1,
+   "pn": "",
+   "sy": 1
+  }
+ ],
+ "version": 3
+}

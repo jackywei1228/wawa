@@ -1,0 +1,151 @@
+
+.sys_loading{
+	
+}
+
+.sys_loading .filter{
+	position: fixed;
+	width:100%;
+	height:100%;
+	top:0px;
+	left:0px;
+	z-index: 600;
+	background: #434344;
+	opacity:0.6;
+}
+
+
+.sys_loading .sys_loading_msg{
+	color: #e1e1e1;
+	font-size: 14px;
+	height: 60px;
+	position: fixed;
+	text-align: center;
+	top: 220px;
+	width: 100%;
+	z-index: 610;
+	box-sizing: border-box;
+	-webkit-box-sizing:border-box;
+}
+
+.sys_loading .sys_loading_msg img{
+	width: 45px;
+}
+
+.sys_loading_msg_text{
+	
+}
+
+
+
+.loading{
+	position: absolute;
+	text-align: center;
+	width: 100%;
+	z-index: 100;
+}
+
+.loading .load_img{
+
+}
+
+.load_bottom{
+	position: absolute;
+	bottom:0px;
+	width:100%;
+}
+
+.load_bottom .load_bottom_info{
+	width:100%;
+	text-align: center;
+	color:#342D2C;
+	font-size: 15px;
+	margin-bottom:20px;
+}
+.load_bottom .load_img{
+	margin-bottom: 20px;
+	margin-left: 6.5%;
+	width: 65%;
+}
+
+
+.loadding_msg{
+	width:100%;
+	background-color:#FFFFFF;
+	margin-top:10px;
+	text-align: center;
+	clear:both;
+}
+
+.loadding_msg img{
+	width:60px;
+}
+
+
+/*
+弹出框
+*/
+
+
+.show_content{
+	display: none;
+}
+
+.show_content .filter{
+	
+	position: fixed;
+	width:100%;
+	height:100%;
+	top:0px;
+	left:0px;
+	z-index: 600;
+	background: #282829;
+	opacity:0.6;
+}
+
+.show_content .content{
+	background-image: url("../imges/alert_bg.png");
+	background-size: 100% 100%;
+	border: 2px solid #21353c;
+	border-radius: 15px;
+	box-sizing: border-box;
+	color: white;
+	font-size: 18px;
+	left: 20%;
+	letter-spacing: 1px;
+	line-height: 26px;
+	padding: 15px 10px;
+	position: fixed;
+	text-align: center;
+	top: 180px;
+	width: 60%;
+	z-index: 800;
+}
+
+.show_content .content .max_title{
+	font-size: 25px;
+}
+
+
+
+.store_game{
+	display: none;
+}
+.store_game .filter{
+	
+	position: fixed;
+	width:100%;
+	height:100%;
+	top:0px;
+	left:0px;
+	z-index: 600;
+	background: #282829;
+	opacity:0.6;
+}
+.store_game .store_img{
+	position: fixed;
+	width:80%;
+	top:20px;
+	left:10%;
+	z-index: 601;
+}

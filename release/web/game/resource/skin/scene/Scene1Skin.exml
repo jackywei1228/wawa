@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Scene1Skin" width="540" height="878" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group xmlns:e="http://ns.egret.com/eui">
+		<e:ViewStack y="0" id="viewStack" selectedIndex="0">
+			
+			<e:Group name="tab1">
+				<e:Image source="zq_bg_zj_png" x="0" y="0"/>
+				<e:Image source="zq_jl_di_png" horizontalCenter="0" bottom="3"/>
+				<e:Scroller width="455" height="580" y="239" horizontalCenter="0">
+					<e:DataGroup scrollEnabled="true" id="rewardGroup" width="454" y="239" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0" itemRendererSkinName="RewardItem">
+						<e:layout>
+						<e:VerticalLayout horizontalAlign="center" verticalAlign="middle"/>
+						</e:layout>
+						<e:ArrayCollection>
+						<e:Array>
+							<e:Object title="15金币娃娃" point="4.81" time="2017-05-12 16:45" sess="5"/>
+							<e:Object title="25金币娃娃" point="40.81" time="2017-06-12 16:45" sess="50"/>
+						</e:Array>
+						</e:ArrayCollection>
+					</e:DataGroup>
+				</e:Scroller>
+			</e:Group>
+
+			<e:Group name="tab2">
+				<e:Image source="zq_bg_yj_png" x="0" y="0"/>
+				<e:Image source="zq_jl_di_png" horizontalCenter="0" bottom="3"/>
+				<e:Image source="zi_kdhjb_png" y="319.66" horizontalCenter="-100"/>
+				<e:Image y="259.99" source="zi_yongjin_png" horizontalCenter="-100"/>
+				<e:Image id="exchangeShop" source="btn_txqr_png" height="120" width="215" scaleX="0.5" scaleY="0.5" y="381" horizontalCenter="0"/>
+				<e:Label id="accumulateGold" text="0" x="284" y="259.67" size="36" anchorOffsetX="0" width="222.33" textAlign="left" textColor="0xf73d3d"/>
+				<e:Label id="exchangeGold" text="0" x="284" y="319" size="36" anchorOffsetX="0" width="222.33" textAlign="left" textColor="0xf73d3d"/>
+				<e:Label id="student0" text="一级徒弟数量:  0" x="94" y="459.67" size="36" anchorOffsetX="0" width="347.33" textAlign="left" textColor="0xF73D3D"/>
+				<e:Label id="student1" text="二级徒弟数量:  0" x="94" y="509.67" size="36" anchorOffsetX="0" width="347.33" textAlign="left" textColor="0xF73D3D"/>
+				<e:Label id="student2" text="二级徒弟数量:  0" x="94" y="559.67" size="36" anchorOffsetX="0" width="347.33" textAlign="left" textColor="0xF73D3D"/>
+			</e:Group>
+
+			<e:Group name="tab3">
+				<e:Image source="zq_bg_dh_png" x="0" y="0"/>
+				<e:Image source="zq_jl_di_png" horizontalCenter="0" bottom="3"/>
+				<e:Image source="zi_duihuandezi_png" y="230.37" horizontalCenter="0"/>
+				<e:Scroller width="455" height="550" y="273.67" horizontalCenter="0">
+					<e:DataGroup id="exchangeGroup" width="454" y="0" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0" itemRendererSkinName="Scene1Item2">
+						<e:layout>
+							<e:VerticalLayout horizontalAlign="center" verticalAlign="middle"/>
+						</e:layout>
+						<e:ArrayCollection>
+							<e:Array>
+								<e:Object source="zq_tiao_2_png" txt0="40.81金币" txt1="提现中" txt2="2017-06-12 16:45" txt3="佣金"/>
+								<e:Object source="zq_tiao_1_png" txt0="4.81金币" txt1="提现中" txt2="2017-05-12 16:45" txt3="奖金"/>
+							</e:Array>
+						</e:ArrayCollection>
+					</e:DataGroup>
+				</e:Scroller>
+			</e:Group>
+
+			<e:Group name="tab4">
+				<e:Image source="zq_bg_ph_png" x="0" y="0"/>
+				<e:Image source="zq_jl_di_png" horizontalCenter="0" bottom="3"/>
+				<e:Image y="240.37" horizontalCenter="0" x="10" source="zi_paihangbang_png"/>
+
+				<e:Scroller width="455" height="550" y="287" horizontalCenter="0">
+					<e:DataGroup id="rankGroup" width="454" y="0" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0" itemRendererSkinName="Scene1Item" x="43" scaleX="1" scaleY="1">
+						<e:layout>
+						<e:VerticalLayout horizontalAlign="center" verticalAlign="middle"/>
+						</e:layout>
+						<e:ArrayCollection>
+							<e:Array>
+								<e:Object source="zq_tiao_1_png" txt0="4.81金币" txt1="2017-05-12 16:45" txt2="投注5金币"/>
+								<e:Object source="zq_tiao_2_png" txt0="40.81金币" txt1="2017-06-12 16:45" txt2="投注50金币"/>
+							</e:Array>
+						</e:ArrayCollection>
+					</e:DataGroup>
+				</e:Scroller>
+			</e:Group>
+
+		</e:ViewStack>
+
+		<e:TabBar id="tabBar" y="130" anchorOffsetX="0" width="492" height="60" horizontalCenter="0" selectedIndex="0">
+			<e:ArrayCollection>
+				<e:Array>
+					<e:Object selected="zq_zjjl_1_png"/>
+					<e:Object selected="zq_yj_1_png"/>
+					<e:Object selected="zq_dhmx_1_png"/>
+					<e:Object selected="zq_ph_1_png"/>
+				</e:Array>
+			</e:ArrayCollection>
+			<e:layout>
+			<e:HorizontalLayout gap="0"/>
+			</e:layout>
+			<e:itemRendererSkinName>
+			<e:Skin states="up,down" height="60" width="123">
+				<e:Image source.down="zq_btn1_png" source.up="zq_btn2_png" horizontalCenter="0" verticalCenter="0"/>
+				<e:Image source="{data.selected}"  horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+			</e:itemRendererSkinName>
+		</e:TabBar>
+	</e:Group>
+	<e:Image source="updateText_png" left="0" top="0" anchorOffsetX="0" width="50%"/>
+	<e:Label text="数据每10分钟更新1次" x="12" y="6" size="20"/>
+	<e:Image source="idbg_png" y="61" horizontalCenter="0"/>
+	<e:Label id="userIdLabel" text="用户ID:2614112" y="67" size="20" textAlign="center" verticalAlign="middle" width="200" horizontalCenter="0" textColor="0xe0dbdb"/>
+</e:Skin>

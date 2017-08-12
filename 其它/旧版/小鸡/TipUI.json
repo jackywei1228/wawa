@@ -1,0 +1,64 @@
+{
+ "imageArr": [
+  "kuang_tishi.png",
+  "wenzi_7.png"
+ ],
+ "list": [
+  {
+   "path": "kuang_tishi.png",
+   "sx": 1,
+   "skx": 0,
+   "sy": 1,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "index": 0,
+   "x": 0,
+   "sky": 0,
+   "y": 0,
+   "pn": "",
+   "type": "img_mc",
+   "n": "bg",
+   "r": 0,
+   "bn": "normal"
+  },
+  {
+   "path": "wenzi_7.png",
+   "sx": 1,
+   "skx": 0,
+   "sy": 1,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "index": 1,
+   "x": 65,
+   "sky": 0,
+   "y": 5,
+   "pn": "",
+   "type": "img_mc",
+   "n": "wenzi",
+   "r": 0,
+   "bn": "normal"
+  }
+ ],
+ "version": 3,
+ "uiConfig": {
+  "numchild": 2,
+  "height": 108,
+  "width": 540
+ }
+}

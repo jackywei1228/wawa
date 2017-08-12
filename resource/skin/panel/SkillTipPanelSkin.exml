@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="SkillTipPanelSkin" width="540" height="878" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="bg" horizontalCenter="0" verticalCenter="0" source="wenzi_zqjq_png"/>
+</e:Skin>

@@ -1,0 +1,64 @@
+{
+ "imageArr": [
+  "payBG.png",
+  "zhifu_btn_x.png"
+ ],
+ "list": [
+  {
+   "path": "payBG.png",
+   "pn": "",
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "sky": 0,
+   "skx": 0,
+   "x": 0,
+   "n": "payWnd",
+   "y": 10,
+   "index": 0,
+   "type": "img_mc",
+   "sy": 1,
+   "sx": 1,
+   "r": 0,
+   "bn": "normal"
+  },
+  {
+   "path": "zhifu_btn_x.png",
+   "pn": "",
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "sky": 0,
+   "skx": 0,
+   "x": 470,
+   "n": "closeBnt",
+   "y": 0,
+   "index": 1,
+   "type": "img_mc",
+   "sy": 1,
+   "sx": 1,
+   "r": 0,
+   "bn": "normal"
+  }
+ ],
+ "version": 3,
+ "uiConfig": {
+  "numchild": 2,
+  "height": 654.15,
+  "width": 549.8
+ }
+}

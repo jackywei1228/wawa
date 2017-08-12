@@ -1,0 +1,1969 @@
+[ 2017-04-08T11:06:34+08:00 ] 101.226.125.108 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 23 行.
+
+[ 2017-04-08T11:06:34+08:00 ] 101.226.125.108 /index.php?m=Wap&c=Wxlogin&a=index&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T11:06:38+08:00 ] 101.226.125.108 /index.php?m=Wap&c=Wxlogin&a=getinfo&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-&code=003sWhn60s4b7I1O3lm60NZkn60sWhna&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( uopenid='oIf5Iv2RM0BrqQAb2lLw_Fs8g7pE' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( ubeiopenid='' and ubeiopenid<>'' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `haokuai_user_list` SET `uickname`='逸洋建站@钟先生',`usex`='1',`uheadimgurl`='http://wx.qlogo.cn/mmopen/dWYcndbpDnbOc9xHNVAFW9GeBROrk0E4mFjJzPicP8t6jo0czkpnnMsz6GHXqMohwZCia1eyERibZib29nm6oN79v3VlalibqJbPm/0',`udizhi`='江苏南京',`ulogintime`='1491620798' WHERE `id` = 73 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T11:06:44+08:00 ] 101.226.125.108 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T11:06:45+08:00 ] 101.226.125.108 /index.php/Wap/jiawawa/index?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_zhanghu` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_zhanghu` WHERE `userid` = 73 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:06:45+08:00 ] 101.226.125.108 /index.php/Wap/jiawawa/jilu?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_yongjin` [ RunTime:0.1094s ]
+SQL: SELECT SUM(tixiane) AS tp_sum FROM `haokuai_user_yongjin` WHERE ( userid=73 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:06:59+08:00 ] 101.226.125.108 /index.php/Wap/Jiawawa/erweima?id=5864
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T11:08:39+08:00 ] 183.206.169.23 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 23 行.
+
+[ 2017-04-08T11:08:39+08:00 ] 183.206.169.23 /index.php?m=Wap&c=Wxlogin&a=index&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T11:08:55+08:00 ] 101.226.125.108 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T11:08:56+08:00 ] 101.226.125.108 /index.php/Wap/jiawawa/index?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_zhanghu` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_zhanghu` WHERE `userid` = 73 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:08:56+08:00 ] 101.226.125.108 /index.php/Wap/jiawawa/jilu?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_yongjin` [ RunTime:0.0000s ]
+SQL: SELECT SUM(tixiane) AS tp_sum FROM `haokuai_user_yongjin` WHERE ( userid=73 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:09:14+08:00 ] 101.226.125.108 /index.php/Wap/jiawawa/jilu?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_yongjin` [ RunTime:0.0000s ]
+SQL: SELECT SUM(tixiane) AS tp_sum FROM `haokuai_user_yongjin` WHERE ( userid=73 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:09:14+08:00 ] 101.226.125.108 /index.php/Wap/jiawawa/index?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_zhanghu` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_zhanghu` WHERE `userid` = 73 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:11:53+08:00 ] 101.226.125.108 /index.php/Wap/jiawawa/index?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_zhanghu` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_zhanghu` WHERE `userid` = 73 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:11:54+08:00 ] 101.226.125.108 /index.php/Wap/jiawawa/jilu?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_yongjin` [ RunTime:0.0000s ]
+SQL: SELECT SUM(tixiane) AS tp_sum FROM `haokuai_user_yongjin` WHERE ( userid=73 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:15:58+08:00 ] 140.207.54.144 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 23 行.
+
+[ 2017-04-08T11:15:59+08:00 ] 101.226.125.108 /index.php/Wap/jiawawa/index?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_zhanghu` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_zhanghu` WHERE `userid` = 73 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:15:59+08:00 ] 117.185.27.104 /index.php/Wap/jiawawa/jilu?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_yongjin` [ RunTime:0.0000s ]
+SQL: SELECT SUM(tixiane) AS tp_sum FROM `haokuai_user_yongjin` WHERE ( userid=73 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:17:59+08:00 ] 101.226.125.108 /index.php/Wap/jiawawa/jilu?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_yongjin` [ RunTime:0.0000s ]
+SQL: SELECT SUM(tixiane) AS tp_sum FROM `haokuai_user_yongjin` WHERE ( userid=73 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:18:24+08:00 ] 183.206.169.23 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 23 行.
+
+[ 2017-04-08T11:18:24+08:00 ] 183.206.169.23 /index.php?m=Wap&c=Wxlogin&a=index&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T11:19:28+08:00 ] 183.206.169.23 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 23 行.
+
+[ 2017-04-08T11:19:29+08:00 ] 183.206.169.23 /index.php?m=Wap&c=Wxlogin&a=index&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T11:20:55+08:00 ] 183.206.169.23 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 23 行.
+
+[ 2017-04-08T11:20:55+08:00 ] 183.206.169.23 /index.php?m=Wap&c=Wxlogin&a=index&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T11:20:59+08:00 ] 183.206.169.23 /index.php?m=Wap&c=Wxlogin&a=getinfo&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-&code=013zQohY0hciT02feIgY0pm5hY0zQohp&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( uopenid='oIf5Iv2RM0BrqQAb2lLw_Fs8g7pE' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( ubeiopenid='' and ubeiopenid<>'' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `haokuai_user_list` SET `uickname`='逸洋建站@钟先生',`usex`='1',`uheadimgurl`='http://wx.qlogo.cn/mmopen/dWYcndbpDnbOc9xHNVAFW9GeBROrk0E4mFjJzPicP8t6jo0czkpnnMsz6GHXqMohwZCia1eyERibZib29nm6oN79v3VlalibqJbPm/0',`udizhi`='江苏南京',`ulogintime`='1491621659' WHERE `id` = 73 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T11:21:11+08:00 ] 183.206.169.23 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T11:21:25+08:00 ] 183.206.169.23 /index.php/Wap/jiawawa/index?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_zhanghu` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_zhanghu` WHERE `userid` = 73 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:21:25+08:00 ] 183.206.169.23 /index.php/Wap/jiawawa/jilu?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_yongjin` [ RunTime:0.0000s ]
+SQL: SELECT SUM(tixiane) AS tp_sum FROM `haokuai_user_yongjin` WHERE ( userid=73 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:23:24+08:00 ] 183.206.169.23 /index.php/Wap/jiawawa/jilu?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_yongjin` [ RunTime:0.0000s ]
+SQL: SELECT SUM(tixiane) AS tp_sum FROM `haokuai_user_yongjin` WHERE ( userid=73 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:25:24+08:00 ] 183.206.169.23 /index.php/Wap/jiawawa/jilu?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_yongjin` [ RunTime:0.0000s ]
+SQL: SELECT SUM(tixiane) AS tp_sum FROM `haokuai_user_yongjin` WHERE ( userid=73 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:26:48+08:00 ] 183.206.169.23 /index.php/Wap/jiawawa/index?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_zhanghu` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `haokuai_user_zhanghu` WHERE `userid` = 73 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:26:48+08:00 ] 183.206.169.23 /index.php/Wap/jiawawa/jilu?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_yongjin` [ RunTime:0.0000s ]
+SQL: SELECT SUM(tixiane) AS tp_sum FROM `haokuai_user_yongjin` WHERE ( userid=73 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:28:48+08:00 ] 183.206.169.23 /index.php/Wap/jiawawa/jilu?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_yongjin` [ RunTime:0.0000s ]
+SQL: SELECT SUM(tixiane) AS tp_sum FROM `haokuai_user_yongjin` WHERE ( userid=73 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:30:48+08:00 ] 183.206.169.23 /index.php/Wap/jiawawa/jilu?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_yongjin` [ RunTime:0.0000s ]
+SQL: SELECT SUM(tixiane) AS tp_sum FROM `haokuai_user_yongjin` WHERE ( userid=73 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:39:05+08:00 ] 183.206.169.23 /index.php/Wap/jiawawa/jilu?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_yongjin` [ RunTime:0.0000s ]
+SQL: SELECT SUM(tixiane) AS tp_sum FROM `haokuai_user_yongjin` WHERE ( userid=73 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:41:05+08:00 ] 183.206.169.23 /index.php/Wap/jiawawa/jilu?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_yongjin` [ RunTime:0.0000s ]
+SQL: SELECT SUM(tixiane) AS tp_sum FROM `haokuai_user_yongjin` WHERE ( userid=73 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:43:05+08:00 ] 183.206.169.23 /index.php/Wap/jiawawa/jilu?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_yongjin` [ RunTime:0.0000s ]
+SQL: SELECT SUM(tixiane) AS tp_sum FROM `haokuai_user_yongjin` WHERE ( userid=73 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:45:05+08:00 ] 183.206.169.23 /index.php/Wap/jiawawa/jilu?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_yongjin` [ RunTime:0.0000s ]
+SQL: SELECT SUM(tixiane) AS tp_sum FROM `haokuai_user_yongjin` WHERE ( userid=73 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:47:05+08:00 ] 183.206.169.23 /index.php/Wap/jiawawa/jilu?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_yongjin` [ RunTime:0.0000s ]
+SQL: SELECT SUM(tixiane) AS tp_sum FROM `haokuai_user_yongjin` WHERE ( userid=73 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:53:06+08:00 ] 101.226.61.186 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 23 行.
+
+[ 2017-04-08T11:53:06+08:00 ] 140.207.185.124 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 23 行.
+
+[ 2017-04-08T11:53:06+08:00 ] 101.226.61.181 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 23 行.
+
+[ 2017-04-08T11:53:06+08:00 ] 101.226.61.186 /index.php?m=Wap&c=Wxlogin&a=index&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T11:53:09+08:00 ] 117.185.24.151 /index.php?m=Wap&c=Wxlogin&a=getinfo&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-&code=013njm2M0Jm5b62X9o2M0j162M0njm2M&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( uopenid='oIf5Iv7hsteS7lTgVP30i7VfAfnw' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( ubeiopenid='' and ubeiopenid<>'' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `haokuai_user_list` SET `uickname`='逸洋',`usex`='0',`uheadimgurl`='http://wx.qlogo.cn/mmopen/pUx7pTHicla2zWVlDuExWR5tlxu3BWmlnZOurEJIX3TXEYfSG1lgvibvypKbqvYjaz6gicEnMpbIWibShMd6icL44xZ37O8gyHmM1/0',`udizhi`='',`ulogintime`='1491623589' WHERE `id` = 75 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T11:53:13+08:00 ] 101.226.61.186 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=75 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T11:53:16+08:00 ] 117.185.24.151 /index.php/Wap/jiawawa/index?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=75 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_zhanghu` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_zhanghu` WHERE `userid` = 75 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:53:16+08:00 ] 101.226.61.186 /index.php/Wap/jiawawa/jilu?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=75 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_yongjin` [ RunTime:0.0000s ]
+SQL: SELECT SUM(tixiane) AS tp_sum FROM `haokuai_user_yongjin` WHERE ( userid=75 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:53:35+08:00 ] 117.185.24.151 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=75 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T11:53:37+08:00 ] 117.185.24.151 /index.php/Wap/jiawawa/jilu?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=75 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_yongjin` [ RunTime:0.0000s ]
+SQL: SELECT SUM(tixiane) AS tp_sum FROM `haokuai_user_yongjin` WHERE ( userid=75 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:53:37+08:00 ] 101.226.61.186 /index.php/Wap/jiawawa/index?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=75 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_zhanghu` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_zhanghu` WHERE `userid` = 75 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:54:02+08:00 ] 117.185.24.151 /index.php/Wap/Jiawawa/erweima?id=5864
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=75 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T11:56:31+08:00 ] 117.185.24.151 /index.php/Wap/jiawawa/jilu?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=75 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_yongjin` [ RunTime:0.0000s ]
+SQL: SELECT SUM(tixiane) AS tp_sum FROM `haokuai_user_yongjin` WHERE ( userid=75 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T11:58:08+08:00 ] 101.226.125.108 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 23 行.
+
+[ 2017-04-08T11:58:08+08:00 ] 101.226.125.108 /index.php?m=Wap&c=Wxlogin&a=index&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T11:58:49+08:00 ] 101.226.125.108 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 23 行.
+
+[ 2017-04-08T11:58:49+08:00 ] 101.226.125.108 /index.php?m=Wap&c=Wxlogin&a=index&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T11:58:51+08:00 ] 101.226.125.108 /index.php?m=Wap&c=Wxlogin&a=getinfo&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-&code=003J0aHj13YRjz0ubDIj1TgMGj1J0aHS&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( uopenid='oIf5IvznQ829oP04LSZuHw95M6VA' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( ubeiopenid='' and ubeiopenid<>'' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `haokuai_user_list` SET `uickname`='逸洋建站@程序员',`usex`='1',`uheadimgurl`='http://wx.qlogo.cn/mmopen/pUx7pTHicla1fWxgDsCcDVXhiay5zQ71Ix4kSPukia2mxLMSNIklhZJq1H95Cr3bKtFXBNOff2LTgSaibwTV4JibHjfy5XCIuiafEm/0',`udizhi`='江苏南京',`ulogintime`='1491623931' WHERE `id` = 74 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:05:07+08:00 ] 101.226.61.186 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 23 行.
+
+[ 2017-04-08T12:05:07+08:00 ] 101.226.61.186 /index.php?m=Wap&c=Wxlogin&a=index&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:05:10+08:00 ] 101.226.61.186 /index.php?m=Wap&c=Wxlogin&a=getinfo&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-&code=003trVti1KSF6y0QMUvi1mY2ui1trVtx&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( uopenid='oIf5Iv7hsteS7lTgVP30i7VfAfnw' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( ubeiopenid='' and ubeiopenid<>'' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `haokuai_user_list` SET `uickname`='逸洋',`usex`='0',`uheadimgurl`='http://wx.qlogo.cn/mmopen/pUx7pTHicla2zWVlDuExWR5tlxu3BWmlnZOurEJIX3TXEYfSG1lgvibvypKbqvYjaz6gicEnMpbIWibShMd6icL44xZ37O8gyHmM1/0',`udizhi`='',`ulogintime`='1491624310' WHERE `id` = 75 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:05:14+08:00 ] 101.226.61.186 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=75 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:05:26+08:00 ] 101.226.61.186 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 23 行.
+
+[ 2017-04-08T12:05:27+08:00 ] 117.185.24.151 /index.php?m=Wap&c=Wxlogin&a=index&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:05:29+08:00 ] 101.226.61.186 /index.php?m=Wap&c=Wxlogin&a=getinfo&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-&code=013faFWs01RYsc1yGaUs0rEAWs0faFWH&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( uopenid='oIf5Iv7hsteS7lTgVP30i7VfAfnw' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( ubeiopenid='' and ubeiopenid<>'' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `haokuai_user_list` SET `uickname`='逸洋',`usex`='0',`uheadimgurl`='http://wx.qlogo.cn/mmopen/pUx7pTHicla2zWVlDuExWR5tlxu3BWmlnZOurEJIX3TXEYfSG1lgvibvypKbqvYjaz6gicEnMpbIWibShMd6icL44xZ37O8gyHmM1/0',`udizhi`='',`ulogintime`='1491624329' WHERE `id` = 75 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:05:33+08:00 ] 117.185.24.151 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=75 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:05:35+08:00 ] 101.226.61.186 /index.php/Wap/jiawawa/jilu?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=75 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_yongjin` [ RunTime:0.0156s ]
+SQL: SELECT SUM(tixiane) AS tp_sum FROM `haokuai_user_yongjin` WHERE ( userid=75 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T12:05:35+08:00 ] 117.185.24.151 /index.php/Wap/jiawawa/index?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=75 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_zhanghu` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_zhanghu` WHERE `userid` = 75 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T12:06:20+08:00 ] 101.226.125.108 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 23 行.
+
+[ 2017-04-08T12:06:20+08:00 ] 101.226.125.108 /index.php?m=Wap&c=Wxlogin&a=index&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:06:23+08:00 ] 101.226.125.108 /index.php?m=Wap&c=Wxlogin&a=getinfo&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-&code=003AN6Ay0apTai19Oqzy00KOzy0AN6AP&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( uopenid='oIf5IvznQ829oP04LSZuHw95M6VA' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( ubeiopenid='' and ubeiopenid<>'' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `haokuai_user_list` SET `uickname`='逸洋建站@程序员',`usex`='1',`uheadimgurl`='http://wx.qlogo.cn/mmopen/pUx7pTHicla1fWxgDsCcDVXhiay5zQ71Ix4kSPukia2mxLMSNIklhZJq1H95Cr3bKtFXBNOff2LTgSaibwTV4JibHjfy5XCIuiafEm/0',`udizhi`='江苏南京',`ulogintime`='1491624383' WHERE `id` = 74 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:06:26+08:00 ] 101.226.125.108 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=74 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:06:28+08:00 ] 101.226.125.108 /index.php/Wap/jiawawa/index?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=74 ) LIMIT 1   [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_zhanghu` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_zhanghu` WHERE `userid` = 74 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T12:06:28+08:00 ] 101.226.125.108 /index.php/Wap/jiawawa/jilu?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=74 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_yongjin` [ RunTime:0.0000s ]
+SQL: SELECT SUM(tixiane) AS tp_sum FROM `haokuai_user_yongjin` WHERE ( userid=74 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T12:06:37+08:00 ] 117.185.27.104 /index.php/Wap/Chongzhi/fuqian/?f=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=74 ) LIMIT 1   [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_chongzhi` [ RunTime:0.0312s ]
+SQL: INSERT INTO `haokuai_user_chongzhi` (`ddanhao`,`userid`,`djine`,`dtime`) VALUES ('20170408120636846','74','500','1491624396') [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015625s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015625s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:06:46+08:00 ] 140.207.54.76 /index.php/Wap/Paynotify/wxchongzhi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent C:\phpStudy\WWW\wawa\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent C:\phpStudy\WWW\wawa\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_chongzhi` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_chongzhi` WHERE ( ddanhao=20170408120636846 and dcode=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=74 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: update haokuai_user_zhanghu set uqianchong=uqianchong+500,uchongzong=uchongzong+500 where userid=74 [ RunTime:0.0000s ]
+SQL: update haokuai_user_chongzhi set dcode=2,djisuan=2 where ddanhao=20170408120636846 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:06:48+08:00 ] 101.226.125.108 /index.php/Wap/Jiawawa/action
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=74 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:06:49+08:00 ] 117.185.27.104 /index.php/Wap/jiawawa/index?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=74 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_zhanghu` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_zhanghu` WHERE `userid` = 74 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T12:06:49+08:00 ] 101.226.125.108 /index.php/Wap/jiawawa/jilu?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=74 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_yongjin` [ RunTime:0.0000s ]
+SQL: SELECT SUM(tixiane) AS tp_sum FROM `haokuai_user_yongjin` WHERE ( userid=74 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T12:06:53+08:00 ] 101.226.125.108 /index.php/Wap/jiawawa/ajaxzhuan?id=5864&e=5&b=6&c=1&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=74 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=74 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_zhanghu` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_zhanghu` WHERE ( userid=74 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_hb` [ RunTime:0.0469s ]
+SQL: SELECT * FROM `haokuai_hb` WHERE ( htype=2 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_hb` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `haokuai_user_hb` WHERE ( userid=74 ) ORDER BY id desc LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_hb` WHERE ( hbid=7 and userid=74 and tcode=2 ) LIMIT 1   [ RunTime:0.0312s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `haokuai_user_hb` WHERE ( hbid=7 and userid=74 and tcode=1 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_hb_gailv` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `haokuai_hb_gailv` WHERE ( hbid=7 and hcishu=4 and hgailv>0 )  [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_hb_gailv` WHERE ( hbid=7 and hgailv>0 )  [ RunTime:0.0000s ]
+SQL: INSERT INTO `haokuai_user_hb` (`userid`,`hbid`,`hbe`,`ttime`,`tcode`) VALUES ('74','7','173','1491624412','2') [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_hb` WHERE ( userid=74 and tcode=2 and id=124 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_zhanghu` WHERE ( userid=74 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_hb` WHERE ( userid=74 and tcode=2 and id=124 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_hb` WHERE ( id=7 ) LIMIT 1   [ RunTime:0.0156s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=74 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined index: HTTP_CLIENT_IP C:\phpStudy\WWW\wawa\ThinkPHP\Library\Vendor\wxpay\WxXianjinHelper.php 第 137 行.
+SQL: update haokuai_user_zhanghu set uqianchong=uqianchong-500 where userid=74 [ RunTime:0.0000s ]
+SQL: update haokuai_user_hb set tcode=1 where id=124 [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=0 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_fenxiao` [ RunTime:0.0312s ]
+SQL: SELECT * FROM `haokuai_fenxiao` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `haokuai_user_list` SET `ufacishu`='1',`ugengxin`='1491624413' WHERE `id` = 74 [ RunTime:0.0000s ]
+
+[ 2017-04-08T12:06:59+08:00 ] 140.207.54.75 /index.php/Wap/Paynotify/wxchongzhi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent C:\phpStudy\WWW\wawa\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent C:\phpStudy\WWW\wawa\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_chongzhi` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_chongzhi` WHERE ( ddanhao=20170408120636846 and dcode=1 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:07:16+08:00 ] 140.207.54.76 /index.php/Wap/Paynotify/wxchongzhi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent C:\phpStudy\WWW\wawa\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent C:\phpStudy\WWW\wawa\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_chongzhi` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_chongzhi` WHERE ( ddanhao=20170408120636846 and dcode=1 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:07:48+08:00 ] 140.207.54.73 /index.php/Wap/Paynotify/wxchongzhi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent C:\phpStudy\WWW\wawa\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent C:\phpStudy\WWW\wawa\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_chongzhi` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_chongzhi` WHERE ( ddanhao=20170408120636846 and dcode=1 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:10:51+08:00 ] 140.207.54.73 /index.php/Wap/Paynotify/wxchongzhi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent C:\phpStudy\WWW\wawa\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent C:\phpStudy\WWW\wawa\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_chongzhi` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `haokuai_user_chongzhi` WHERE ( ddanhao=20170408120636846 and dcode=1 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:15:47+08:00 ] 113.75.31.202 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 23 行.
+
+[ 2017-04-08T12:15:47+08:00 ] 113.75.31.202 /index.php?m=Wap&c=Wxlogin&a=index&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015624s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015624s ]
+
+[ 2017-04-08T12:35:12+08:00 ] 140.207.185.123 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 23 行.
+
+[ 2017-04-08T12:35:13+08:00 ] 101.226.125.108 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 23 行.
+
+[ 2017-04-08T12:35:13+08:00 ] 101.226.125.14 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 23 行.
+
+[ 2017-04-08T12:35:13+08:00 ] 117.185.27.104 /index.php?m=Wap&c=Wxlogin&a=index&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:35:15+08:00 ] 117.185.27.104 /index.php?m=Wap&c=Wxlogin&a=getinfo&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-&code=0132ez300cCEVC1oUV10084w3002ez3s&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( uopenid='oIf5Iv2RM0BrqQAb2lLw_Fs8g7pE' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( ubeiopenid='' and ubeiopenid<>'' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `haokuai_user_list` SET `uickname`='逸洋建站@钟先生',`usex`='1',`uheadimgurl`='http://wx.qlogo.cn/mmopen/dWYcndbpDnbOc9xHNVAFW9GeBROrk0E4mFjJzPicP8t6jo0czkpnnMsz6GHXqMohwZCia1eyERibZib29nm6oN79v3VlalibqJbPm/0',`udizhi`='江苏南京',`ulogintime`='1491626115' WHERE `id` = 73 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:35:22+08:00 ] 180.153.214.200 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 23 行.
+
+[ 2017-04-08T12:35:22+08:00 ] 180.163.2.116 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 23 行.
+
+[ 2017-04-08T12:35:22+08:00 ] 180.163.2.116 /index.php?m=Wap&c=Wxlogin&a=index&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:35:22+08:00 ] 180.153.214.200 /index.php?m=Wap&c=Wxlogin&a=index&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:35:29+08:00 ] 180.163.2.119 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 23 行.
+
+[ 2017-04-08T12:35:29+08:00 ] 180.163.2.119 /index.php?m=Wap&c=Wxlogin&a=index&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:39:38+08:00 ] 117.185.27.104 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 23 行.
+
+[ 2017-04-08T12:39:38+08:00 ] 117.185.27.104 /index.php?m=Wap&c=Wxlogin&a=index&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:39:40+08:00 ] 101.226.125.108 /index.php?m=Wap&c=Wxlogin&a=getinfo&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-&code=013Smxsp0bvo9r1Fqfsp0DZzsp0SmxsS&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( uopenid='oIf5Iv2RM0BrqQAb2lLw_Fs8g7pE' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( ubeiopenid='' and ubeiopenid<>'' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `haokuai_user_list` SET `uickname`='逸洋建站@钟先生',`usex`='1',`uheadimgurl`='http://wx.qlogo.cn/mmopen/dWYcndbpDnbOc9xHNVAFW9GeBROrk0E4mFjJzPicP8t6jo0czkpnnMsz6GHXqMohwZCia1eyERibZib29nm6oN79v3VlalibqJbPm/0',`udizhi`='江苏南京',`ulogintime`='1491626380' WHERE `id` = 73 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:39:41+08:00 ] 183.206.169.23 /index.php/Wap/jiawawa/index?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015625s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015625s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_zhanghu` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_zhanghu` WHERE `userid` = 73 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T12:39:41+08:00 ] 183.206.169.23 /index.php/Wap/jiawawa/jilu?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=73 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_yongjin` [ RunTime:0.0000s ]
+SQL: SELECT SUM(tixiane) AS tp_sum FROM `haokuai_user_yongjin` WHERE ( userid=73 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T12:40:08+08:00 ] 117.185.24.151 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 23 行.
+
+[ 2017-04-08T12:40:08+08:00 ] 101.226.61.186 /index.php?m=Wap&c=Wxlogin&a=index&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:40:11+08:00 ] 117.185.24.151 /index.php?m=Wap&c=Wxlogin&a=getinfo&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-&code=003LR9oW0H005Y1vmJnW0snfoW0LR9oq&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( uopenid='oIf5Iv7hsteS7lTgVP30i7VfAfnw' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( ubeiopenid='' and ubeiopenid<>'' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `haokuai_user_list` SET `uickname`='逸洋',`usex`='0',`uheadimgurl`='http://wx.qlogo.cn/mmopen/pUx7pTHicla2zWVlDuExWR5tlxu3BWmlnZOurEJIX3TXEYfSG1lgvibvypKbqvYjaz6gicEnMpbIWibShMd6icL44xZ37O8gyHmM1/0',`udizhi`='',`ulogintime`='1491626411' WHERE `id` = 75 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:40:13+08:00 ] 101.226.61.186 /index.php/Wap/jiawawa/index?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=75 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_zhanghu` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_zhanghu` WHERE `userid` = 75 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T12:40:13+08:00 ] 101.226.61.186 /index.php/Wap/jiawawa/jilu?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=75 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_yongjin` [ RunTime:0.0000s ]
+SQL: SELECT SUM(tixiane) AS tp_sum FROM `haokuai_user_yongjin` WHERE ( userid=75 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T12:40:44+08:00 ] 117.185.24.151 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 23 行.
+
+[ 2017-04-08T12:40:44+08:00 ] 101.226.61.186 /index.php?m=Wap&c=Wxlogin&a=index&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:40:47+08:00 ] 101.226.61.186 /index.php?m=Wap&c=Wxlogin&a=getinfo&urls=m-%7Cc-%7Ca-%7Cutid-%7Cubeiopenid-&code=013tvRKq15oyQp0bdhLq15IUKq1tvRKt&state=
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( uopenid='oIf5Iv7hsteS7lTgVP30i7VfAfnw' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( ubeiopenid='' and ubeiopenid<>'' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `haokuai_user_list` SET `uickname`='逸洋',`usex`='0',`uheadimgurl`='http://wx.qlogo.cn/mmopen/pUx7pTHicla2zWVlDuExWR5tlxu3BWmlnZOurEJIX3TXEYfSG1lgvibvypKbqvYjaz6gicEnMpbIWibShMd6icL44xZ37O8gyHmM1/0',`udizhi`='',`ulogintime`='1491626447' WHERE `id` = 75 [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:40:49+08:00 ] 101.226.61.186 /index.php/Wap/jiawawa/jilu?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=75 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_yongjin` [ RunTime:0.0000s ]
+SQL: SELECT SUM(tixiane) AS tp_sum FROM `haokuai_user_yongjin` WHERE ( userid=75 ) LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T12:40:49+08:00 ] 101.226.61.186 /index.php/Wap/jiawawa/index?id=5864&o=oXuE4v_q_CJDmJvHOP6yXhidRysM
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=75 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_zhanghu` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_zhanghu` WHERE `userid` = 75 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2017-04-08T12:40:53+08:00 ] 140.207.54.75 /index.php/Wap/Paynotify/wxchongzhi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent C:\phpStudy\WWW\wawa\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent C:\phpStudy\WWW\wawa\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_user_chongzhi` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_chongzhi` WHERE ( ddanhao=20170408120636846 and dcode=1 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-08T12:41:04+08:00 ] 117.185.24.151 /index.php/Wap/Jiawawa/erweima?id=5864
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: m C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8] Undefined index: c C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 13 行.
+NOTIC: [8] Undefined index: a C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 14 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 15 行.
+NOTIC: [8] Undefined index: ubeiopenid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 16 行.
+NOTIC: [8] Undefined index: utid C:\phpStudy\WWW\wawa\Project\Wap\Controller\CommonController.class.php 第 18 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_user_list` WHERE ( id=75 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `haokuai_sys_config` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `haokuai_sys_config` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

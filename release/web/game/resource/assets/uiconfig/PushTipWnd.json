@@ -1,0 +1,64 @@
+{
+ "imageArr": [
+  "txqr_bg.png",
+  "colse.png"
+ ],
+ "list": [
+  {
+   "path": "txqr_bg.png",
+   "bn": "normal",
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "index": 0,
+   "x": 0,
+   "sky": 0,
+   "n": "PushTipWnd",
+   "pn": "",
+   "skx": 0,
+   "y": 0,
+   "sy": 1,
+   "sx": 1,
+   "r": 0,
+   "type": "img_mc"
+  },
+  {
+   "path": "colse.png",
+   "bn": "normal",
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "index": 1,
+   "x": 462,
+   "sky": 0,
+   "n": "closeBnt",
+   "pn": "",
+   "skx": 0,
+   "y": 16,
+   "sy": 1,
+   "sx": 1,
+   "r": 0,
+   "type": "img_mc"
+  }
+ ],
+ "version": 3,
+ "uiConfig": {
+  "numchild": 2,
+  "height": 726,
+  "width": 542.15
+ }
+}

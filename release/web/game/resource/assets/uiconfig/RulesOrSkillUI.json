@@ -1,0 +1,65 @@
+{
+ "imageArr": [
+  "wxts_bg.png",
+  "wenzi_yxgz.png",
+  "wenzi_zqjq.png"
+ ],
+ "list": [
+  {
+   "path": "wenzi_yxgz.png",
+   "skx": 0,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "index": 0,
+   "x": 0,
+   "n": "rules",
+   "y": 0,
+   "pn": "",
+   "sy": 1,
+   "type": "img_mc",
+   "sx": 1,
+   "bn": "normal",
+   "r": 0,
+   "sky": 0
+  },
+  {
+   "path": "wenzi_zqjq.png",
+   "skx": 0,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "index": 1,
+   "x": 0,
+   "n": "skill",
+   "y": 0,
+   "pn": "",
+   "sy": 1,
+   "type": "img_mc",
+   "sx": 1,
+   "bn": "normal",
+   "r": 0,
+   "sky": 0
+  }
+ ],
+ "version": 3,
+ "uiConfig": {
+  "height": 726,
+  "numchild": 2,
+  "width": 540
+ }
+}

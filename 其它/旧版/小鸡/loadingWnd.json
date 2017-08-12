@@ -1,0 +1,90 @@
+{
+ "imageArr": [
+  "zq_yj_di.png",
+  "loading_bar.png",
+  "loading_bg.png"
+ ],
+ "uiConfig": {
+  "height": 878,
+  "numchild": 3,
+  "width": 836.5
+ },
+ "list": [
+  {
+   "path": "zq_yj_di.png",
+   "bn": "normal",
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "sy": 1,
+   "index": 0,
+   "pn": "",
+   "x": 25,
+   "n": "loadingWnd",
+   "y": 155,
+   "skx": 0,
+   "sky": 0,
+   "sx": 1,
+   "r": 0,
+   "type": "img_mc"
+  },
+  {
+   "path": "loading_bar.png",
+   "bn": "normal",
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "sy": 1,
+   "index": 1,
+   "pn": "",
+   "x": -296,
+   "n": "bar",
+   "y": 437,
+   "skx": 0,
+   "sky": 0,
+   "sx": 1,
+   "r": 0,
+   "type": "img_mc"
+  },
+  {
+   "path": "loading_bg.png",
+   "bn": "normal",
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "sy": 1,
+   "index": 2,
+   "pn": "",
+   "x": 0,
+   "n": "loadingWnd",
+   "y": 0,
+   "skx": 0,
+   "sky": 0,
+   "sx": 1,
+   "r": 0,
+   "type": "img_mc"
+  }
+ ],
+ "version": 3
+}

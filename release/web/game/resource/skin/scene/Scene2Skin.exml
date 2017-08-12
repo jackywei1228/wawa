@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Scene2Skin" width="540" height="878" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image x="0" y="0" source="zq_2vm_bg_png" locked="true"/>
+	<e:Image id="QRBtn" source="btn_2vm_png" y="397" horizontalCenter="0"/>
+	<e:Image id="rankBtn" source="btn_mrph_png" left="0" top="24" visible="false"/>
+	<e:Image id="ruleBtn" source="btn_yongjingz_png" right="0" top="24"/>
+</e:Skin>

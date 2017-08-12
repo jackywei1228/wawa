@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Scene3Skin" width="540" height="878" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image x="0" y="0" source="kefu_jpg"/>
+	<e:Image id="code" width="348" height="348" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0.5" verticalCenter="3.5"/>
+</e:Skin>

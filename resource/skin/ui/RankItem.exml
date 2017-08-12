@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RankItem" width="454" height="41" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="{data.source}"/>
+	<e:Label size="25" left="20" textAlign="left" text="{data.txt0}" verticalCenter="0" textColor="0xdb5200"/>
+	<e:Label size="25" textAlign="center" text="{data.txt1}" horizontalCenter="0" verticalCenter="0.5" textColor="0xdb5200"/>
+	<e:Label size="25" right="45" textAlign="right" text="{data.txt2}" verticalCenter="0.5" textColor="0xdb5200"/>
+</e:Skin>

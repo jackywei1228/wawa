@@ -1,0 +1,116 @@
+{
+ "imageArr": [
+  "ruzhang_bg.png",
+  "ruzhang_bg_x.png",
+  "ruzhang_btn1.png",
+  "ruzhang_btn2.png"
+ ],
+ "list": [
+  {
+   "pn": "",
+   "path": "ruzhang_bg.png",
+   "index": 0,
+   "sky": 0,
+   "x": 0,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "skx": 0,
+   "y": 0,
+   "sx": 1,
+   "type": "img_mc",
+   "bn": "normal",
+   "n": "HongBaoUI",
+   "sy": 1,
+   "r": 0
+  },
+  {
+   "pn": "",
+   "path": "ruzhang_bg_x.png",
+   "index": 1,
+   "sky": 0,
+   "x": 343,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "skx": 0,
+   "y": 13,
+   "sx": 1,
+   "type": "img_mc",
+   "bn": "normal",
+   "n": "closeBnt",
+   "sy": 1,
+   "r": 0
+  },
+  {
+   "pn": "",
+   "path": "ruzhang_btn1.png",
+   "index": 2,
+   "sky": 0,
+   "x": 121,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "skx": 0,
+   "y": 452,
+   "sx": 1,
+   "type": "img_mc",
+   "bn": "normal",
+   "n": "continueBnt",
+   "sy": 1,
+   "r": 0
+  },
+  {
+   "pn": "",
+   "path": "ruzhang_btn2.png",
+   "index": 3,
+   "sky": 0,
+   "x": 121,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "skx": 0,
+   "y": 358,
+   "sx": 1,
+   "type": "img_mc",
+   "bn": "normal",
+   "n": "pustBnt",
+   "sy": 1,
+   "r": 0
+  }
+ ],
+ "version": 3,
+ "uiConfig": {
+  "height": 614,
+  "numchild": 4,
+  "width": 456
+ }
+}

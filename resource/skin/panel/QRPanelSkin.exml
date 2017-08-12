@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="QRPanelSkin" width="540" height="878" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="bg" source="bbg_png" horizontalCenter="0" verticalCenter="0"/>
+	<e:Image horizontalCenter="0" verticalCenter="0" source="fs2vm_png"/>
+	<e:Button id="closeBtn" label="" skinName="CloseButtonSkin" right="10" top="10"/>
+	<e:Label id="userIdLabel" text="用户ID:2614112" y="747" size="20" textAlign="center" verticalAlign="middle" width="200" horizontalCenter="0" textColor="0xE0DBDB"/>
+	<e:Image id="code" width="162" height="162" anchorOffsetX="0" anchorOffsetY="0" horizontalCenter="0" verticalCenter="59"/>
+</e:Skin>

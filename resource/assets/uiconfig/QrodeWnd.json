@@ -1,0 +1,116 @@
+{
+ "uiConfig": {
+  "numchild": 4,
+  "height": 878,
+  "width": 540.2
+ },
+ "list": [
+  {
+   "path": "zq_2vm_bg.png",
+   "bn": "normal",
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "skx": 0,
+   "index": 0,
+   "x": 0,
+   "pn": "",
+   "n": "QrodeWnd",
+   "y": 0,
+   "sky": 0,
+   "type": "img_mc",
+   "sy": 1,
+   "sx": 1,
+   "r": 0
+  },
+  {
+   "path": "btn_2vm.png",
+   "bn": "normal",
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "skx": 0,
+   "index": 1,
+   "x": 103,
+   "pn": "",
+   "n": "createQCode",
+   "y": 406,
+   "sky": 0,
+   "type": "img_mc",
+   "sy": 1,
+   "sx": 1,
+   "r": 0
+  },
+  {
+   "path": "btn_yongjingz.png",
+   "bn": "normal",
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "skx": 0,
+   "index": 2,
+   "x": 352,
+   "pn": "",
+   "n": "skillBnt",
+   "y": 63,
+   "sky": 0,
+   "type": "img_mc",
+   "sy": 1,
+   "sx": 1,
+   "r": 0
+  },
+  {
+   "path": "btn_mrph.png",
+   "bn": "normal",
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "skx": 0,
+   "index": 3,
+   "x": 0,
+   "pn": "",
+   "n": "btnRan",
+   "y": 63,
+   "sky": 0,
+   "type": "img_mc",
+   "sy": 1,
+   "sx": 1,
+   "r": 0
+  }
+ ],
+ "version": 3,
+ "imageArr": [
+  "zq_2vm_bg.png",
+  "btn_2vm.png",
+  "btn_yongjingz.png",
+  "btn_mrph.png"
+ ]
+}

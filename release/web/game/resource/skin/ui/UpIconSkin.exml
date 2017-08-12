@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="UpIconSkin" width="178" height="250" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="tail" source="wb_png" x="95" y="175" rotation="90" anchorOffsetY="23"/>
+	<e:Image id="hat0_0" source="maozi_1b_png" y="26" horizontalCenter="7" visible="false"/>
+	<e:Image source="shen_png_2" horizontalCenter="0" verticalCenter="0" x="24" y="44" scaleX="1" scaleY="1"/>
+	<e:Image id="eye3" source="lian_png" horizontalCenter="0" verticalCenter="0"/>
+	<e:Image id="hat3" source="maozi_4_png" y="-7" horizontalCenter="0" visible="false"/>
+	<e:Image id="hat2" source="maozi_3_png" y="-7" horizontalCenter="0"/>
+	<e:Image id="hat1" source="maozi_2_png" y="-7" horizontalCenter="0" visible="false"/>
+	<e:Image id="hat0_1" source="maozi_1a_png" y="26" horizontalCenter="7" visible="false"/>
+	<e:Label id="desc" text="15" x="29" y="158" anchorOffsetX="0" width="80" scaleX="1" scaleY="1" textAlign="center" size="20" textColor="0xffffff" stroke="2"/>
+</e:Skin>

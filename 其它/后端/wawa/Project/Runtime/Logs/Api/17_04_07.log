@@ -1,0 +1,60 @@
+[ 2017-04-07T10:03:24+08:00 ] 58.247.206.146 /index.php?m=Api&c=Wechat&a=index&aid=1&signature=e5be8cbae36a46cbd030168172ef02884d0b13df&timestamp=1491530605&nonce=254232467&openid=oFc-1t_z-Ajo-nh4RRgauZOIZxlg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent C:\phpStudy\WWW\wawa\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent C:\phpStudy\WWW\wawa\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-07T11:48:55+08:00 ] 58.247.206.151 /index.php?m=Api&c=Wechat&a=index&aid=1&signature=004d72af7d5baf620860b82c87a5ab7258b811aa&timestamp=1491536936&nonce=1181315306&openid=oFc-1t2lEoYj-AvTADKU9aaJ2T8g
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000977s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent C:\phpStudy\WWW\wawa\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent C:\phpStudy\WWW\wawa\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-04-07T12:17:08+08:00 ] 140.207.54.73 /index.php?m=Api&c=Wechat&a=index&aid=1&signature=1c1bf94b7d9b1990b0d5185b7097c2d08ffdfbf9&timestamp=1491538628&nonce=1995192486&openid=oFc-1tw_Q-vH1s426eRaMaFaAXBI
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000977s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent C:\phpStudy\WWW\wawa\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent C:\phpStudy\WWW\wawa\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0020s ]
+ERR: 1054:Unknown column 'ucode' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `haokuai_user_list` WHERE ( ucode='oFc-1tw_Q-vH1s426eRaMaFaAXBI' ) LIMIT 1  
+ERR: 1054:Unknown column 'ucode' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `haokuai_user_list` WHERE ( ucode='oFc-1tw_Q-vH1s426eRaMaFaAXBI' ) LIMIT 1  
+NOTIC: [2] Cannot modify header information - headers already sent C:\phpStudy\WWW\wawa\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent C:\phpStudy\WWW\wawa\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2017-04-07T13:41:39+08:00 ] 58.247.206.153 /index.php?m=Api&c=Wechat&a=index&aid=1&signature=b2900f12a64b284b790f5fcd5a1e7315da780081&timestamp=1491543699&nonce=895371243&openid=oFc-1t-_CjLMqGng98jUCUxdW8Ro
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2] session_start(): Cannot send session cookie - headers already sent C:\phpStudy\WWW\wawa\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] session_start(): Cannot send session cache limiter - headers already sent C:\phpStudy\WWW\wawa\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `haokuai_user_list` [ RunTime:0.0000s ]
+ERR: 1054:Unknown column 'ucode' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `haokuai_user_list` WHERE ( ucode='oFc-1t-_CjLMqGng98jUCUxdW8Ro' ) LIMIT 1  
+ERR: 1054:Unknown column 'ucode' in 'where clause'
+ [ SQL语句 ] : SELECT COUNT(*) AS tp_count FROM `haokuai_user_list` WHERE ( ucode='oFc-1t-_CjLMqGng98jUCUxdW8Ro' ) LIMIT 1  
+NOTIC: [2] Cannot modify header information - headers already sent C:\phpStudy\WWW\wawa\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent C:\phpStudy\WWW\wawa\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+

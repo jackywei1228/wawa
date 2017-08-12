@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="IconSkin" width="178" height="250" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Group id="group" width="100%" height="100%" horizontalCenter="0" verticalCenter="0">
+		<e:Image id="hat0_0" source="maozi_1b_png" y="26" horizontalCenter="7"/>
+		<e:Image source="wb_png" x="99" y="153"/>
+		<e:Image source="shen_png_2" horizontalCenter="0" verticalCenter="0" x="24" y="44" scaleX="1" scaleY="1"/>
+		<e:Image id="eye0" source="lian4_png" x="23" y="44"/>
+		<e:Image id="eye1" source="lian3_png" horizontalCenter="0" verticalCenter="0"/>
+		<e:Image id="eye2" source="lian2_png" horizontalCenter="0" verticalCenter="0"/>
+		<e:Image id="eye3" source="lian_png" horizontalCenter="0" verticalCenter="0"/>
+		<e:Image id="hat3" source="maozi_4_png" y="-7" horizontalCenter="0"/>
+		<e:Image id="hat2" source="maozi_3_png" y="-7" horizontalCenter="0"/>
+		<e:Image id="hat1" source="maozi_2_png" y="-7" horizontalCenter="0"/>
+		<e:Image id="hat0_1" source="maozi_1a_png" y="26" horizontalCenter="7"/>
+		<e:Label id="desc" text="15" x="29" y="158" anchorOffsetX="0" width="80" scaleX="1" scaleY="1" textAlign="center" size="20" textColor="0xffffff" stroke="2"/>
+	</e:Group>
+	<e:Image source="yun_png" y="169" horizontalCenter="0"/>
+</e:Skin>

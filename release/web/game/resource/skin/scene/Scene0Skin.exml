@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Scene0Skin" width="540" height="878" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" xmlns:ns1="*">
+	<e:Image source="bg_2_jpg" x="0" y="0" locked="true"/>
+	<e:RadioButton id="radioBtn5" label="" y="719" x="20" groupName="buy" height="82" width="82" selected="true" value="5">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="80%" height="80%" source="btn_5a_png" width.down="100%" height.down="100%"
+			 source.down="btn_5b_png" source.disabled="btn_5b_png" horizontalCenter="0" verticalCenter="0"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:RadioButton>
+	<e:RadioButton id="radioBtn10" label="" x="134" y="719" groupName="buy" width="82" height="82" value="10">
+		<e:skinName>
+		<e:Skin states="up,down,disabled">
+			<e:Image width="80%" height="80%" source="btn_10a_png" width.down="100%" height.down="100%"
+			 source.down="btn_10b_png" source.disabled="btn_10b_png" horizontalCenter="0" verticalCenter="0"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+		</e:Skin>
+		</e:skinName>
+	</e:RadioButton>
+	<e:RadioButton id="radioBtn20" label="" y="719" x="247" groupName="buy" width="82" height="82" value="20">
+		<e:skinName>
+			<e:Skin states="up,down,disabled">
+			<e:Image width="80%" height="80%" source="btn_20a_png" width.down="100%" height.down="100%"
+			 source.down="btn_20b_png" source.disabled="btn_20b_png" horizontalCenter="0" verticalCenter="0"/>
+			<e:Label id="labelDisplay" horizontalCenter="0" verticalCenter="0"/>
+			</e:Skin>
+		</e:skinName>
+	</e:RadioButton>
+	<e:Image source="shengyu_jiangjin_png" left="20" top="60"/>
+	<e:Image source="shengyu_png" left="20" top="15"/>
+	<e:Image id="ruleBtn" source="btn_tr1_png" width="50" height="51" anchorOffsetX="25" anchorOffsetY="25.5" x="428" y="40.5"/>
+	<e:Image id="tipBtn" source="btn_tr2_png" width="50" height="51" anchorOffsetX="25" anchorOffsetY="25.5" x="495" y="40.5"/>
+	<e:Image id="shopBtn" source="tubiao_sctb_png" width="67" height="67" anchorOffsetX="33.5" anchorOffsetY="33.5" x="486.5" y="114.5" visible="false"/>
+	<e:Label id="pointLabel" text="0.00" anchorOffsetX="0" textAlign="left" left="60" top="18" stroke="2"/>
+	<e:Label id="rewardLabel" text="0.00" anchorOffsetX="0" textAlign="left" left="100" top="73" stroke="2"/>
+	<e:Label id="userIdLabel" text="用户ID:8888888" textColor="0xe0dbdb" size="20" top="196" left="25" textAlign="left" strokeColor="0x000000" stroke="1.5"/>
+	<e:Image id="withdraw" source="btn_txqr_png" height="120" width="215" scaleX="0.5" scaleY="0.5" anchorOffsetX="107.5" anchorOffsetY="60" x="74" y="160"/>
+	<e:Image id="startBtn" source="btn_1_up_png" x="337" y="716"/>
+	<e:Group id="group0" width="100%" height="250" y="382" horizontalCenter="0"/>
+	<e:Group id="clampGroup" width="254" height="676" y="-450" horizontalCenter="0">
+		<e:Image id="clamp" source="jiazi1.1_png" horizontalCenter="0" y="0" x="0" scaleX="1" scaleY="1"/>
+	</e:Group>
+	<e:Group id="group1" width="100%" height="250" y="432" horizontalCenter="0" x="10"/>
+	<ns1:Headline id="headline" width="540" height="30" bottom="170" left="0"/>
+</e:Skin>

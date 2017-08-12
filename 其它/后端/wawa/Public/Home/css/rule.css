@@ -1,0 +1,31 @@
+html,body{
+	margin:0;
+	padding:0;
+	font-size: 15px;
+	font-family: "黑体";
+	background-color: #003B01;
+}
+
+img{
+	max-width: 100%;
+}
+
+#page_rule{
+	
+}
+#page_rule img{
+}
+
+
+#page_rule .title{
+	text-align: center;
+	height: 40px;
+	line-height: 40px;
+	color:white;
+	background-color: #002F01;
+}
+#page_rule .content{
+	color: white;
+	padding: 15px;
+	font-size: 14px;
+}

@@ -1,0 +1,90 @@
+{
+ "imageArr": [
+  "bbg.png",
+  "loading_bar.png",
+  "loading_bg.png"
+ ],
+ "uiConfig": {
+  "numchild": 3,
+  "height": 878,
+  "width": 540.45
+ },
+ "list": [
+  {
+   "path": "bbg.png",
+   "sx": 1,
+   "sy": 1,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "index": 0,
+   "skx": 0,
+   "x": 1,
+   "sky": 0,
+   "y": 0,
+   "pn": "",
+   "type": "img_mc",
+   "n": "loading",
+   "r": 0,
+   "bn": "normal"
+  },
+  {
+   "path": "loading_bar.png",
+   "sx": 1,
+   "sy": 1,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "index": 1,
+   "skx": 0,
+   "x": 24,
+   "sky": 0,
+   "y": 437,
+   "pn": "",
+   "type": "img_mc",
+   "n": "bar",
+   "r": 0,
+   "bn": "normal"
+  },
+  {
+   "path": "loading_bg.png",
+   "sx": 1,
+   "sy": 1,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "index": 2,
+   "skx": 0,
+   "x": 0,
+   "sky": 0,
+   "y": 0,
+   "pn": "",
+   "type": "img_mc",
+   "n": "loading",
+   "r": 0,
+   "bn": "normal"
+  }
+ ],
+ "version": 3
+}

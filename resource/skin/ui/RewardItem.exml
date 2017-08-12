@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="RewardItem" width="454" height="68" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="zq_tiao_1_png"/>
+	<e:Label id="reward" text="{data.title}" size="20" left="10" top="10" textAlign="left" textColor="0xdb5200"/>
+	<e:Label id="rewardGold" text="{data.point}" size="20" right="10" top="10" textAlign="right" textColor="0xdb5200"/>
+	<e:Label id="time" text="{data.time}" size="20" bottom="10" left="10" textAlign="left" textColor="0xdb5200"/>
+	<e:Label id="bet" text="{data.sess}" size="20" right="10" bottom="10" textAlign="right" textColor="0xdb5200"/>
+</e:Skin>

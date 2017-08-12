@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="ShopPanelSkin" width="540" height="726" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="bg" horizontalCenter="0" verticalCenter="0" source="cz_bg_png"/>
+	<e:Button id="closeBtn" label="" x="457" y="17" skinName="CloseButtonSkin"/>
+	<e:Image id="buy5Btn" left="50" top="120" source="duihuan_1_png"/>
+	<e:Image id="buy10Btn" right="55" top="120" source="duihuan_2_png"/>
+	<e:Image id="buy20Btn" left="50" top="350" source="duihuan_3_png"/>
+	<e:Image id="buy50Btn" top="350" right="55" source="duihuan_4_png"/>
+</e:Skin>

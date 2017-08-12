@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="HeadlineSkin" width="540" height="30" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="updateText_png" x="0" y="676"/>
+	<e:Group id="content" width="540" height="30" x="0" y="0">
+		<e:Image id="icon" source="touxiang05_png" x="15" y="0" scaleX="1" scaleY="1" width="31" height="31"/>
+		<e:Label id="desc" text="Label" x="64" y="0" anchorOffsetX="0" width="475" scaleX="1" scaleY="1" textColor="0xf9ef70"/>
+	</e:Group>
+	<e:Rect id="maskRect" width="540" height="30" x="0" y="0"/>
+</e:Skin>

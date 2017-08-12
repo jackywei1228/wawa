@@ -1,0 +1,64 @@
+{
+ "imageArr": [
+  "bg_tongyong.png",
+  "zq_kf.png"
+ ],
+ "list": [
+  {
+   "path": "bg_tongyong.png",
+   "pn": "",
+   "bn": "normal",
+   "sx": 1,
+   "index": 0,
+   "sy": 1,
+   "x": 0,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "n": "KefuWnd",
+   "y": 0,
+   "type": "img_mc",
+   "skx": 0,
+   "sky": 0,
+   "r": 0
+  },
+  {
+   "path": "zq_kf.png",
+   "pn": "",
+   "bn": "normal",
+   "sx": 1,
+   "index": 1,
+   "sy": 1,
+   "x": 52,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "n": "KefuWnd",
+   "y": 250,
+   "type": "img_mc",
+   "skx": 0,
+   "sky": 0,
+   "r": 0
+  }
+ ],
+ "version": 3,
+ "uiConfig": {
+  "numchild": 2,
+  "height": 878,
+  "width": 540
+ }
+}

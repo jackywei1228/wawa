@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BuyPanelSkin" width="540" height="726" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="bg" horizontalCenter="0" verticalCenter="0" source="cz_bg_png"/>
+	<e:Button id="closeBtn" label="" x="457" y="17" skinName="CloseButtonSkin"/>
+	<e:Image id="buy5Btn" source="cz_btn_5_png" left="40" top="100"/>
+	<e:Image id="buy10Btn" source="cz_btn_10_png" right="50" top="100"/>
+	<e:Image id="buy20Btn" source="cz_btn_20_png" left="40" top="275"/>
+	<e:Image id="buy50Btn" source="cz_btn_50_png" top="275" right="50"/>
+	<e:Image id="buy100Btn" source="cz_btn_100_png" left="40" top="450"/>
+	<e:Image id="buy200Btn" source="cz_btn_200_png" right="50" top="450"/>
+</e:Skin>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="LoadingUISkin" width="540" height="878" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image id="bg" horizontalCenter="0" verticalCenter="0" source="loading_bg_png"/>
+	<e:Rect id="loadBarMask" width="0" height="21" x="81" y="437"/>
+	<e:Image id="loadBar" source="loading_bar_png" x="81" y="437"/>
+	<e:Label id="textField" text="0%" anchorOffsetX="0" textAlign="center" stroke="2" width="305" size="20" x="118" y="438"/>
+	<e:Image id="topTip" source="loading_zi1_1_png" y="393" horizontalCenter="0"/>
+	<e:Image id="bottomTip" source="loading_zi5_png" y="464" horizontalCenter="0"/>
+</e:Skin>

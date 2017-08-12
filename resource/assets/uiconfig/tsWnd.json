@@ -1,0 +1,116 @@
+{
+ "imageArr": [
+  "dhcgh_bg.png",
+  "2vmx.png",
+  "sctswz_2.png",
+  "btn_qd.png"
+ ],
+ "uiConfig": {
+  "numchild": 4,
+  "height": 878,
+  "width": 540
+ },
+ "list": [
+  {
+   "path": "dhcgh_bg.png",
+   "pn": "",
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "sx": 1,
+   "bn": "normal",
+   "sky": 0,
+   "x": 0,
+   "n": "tsWnd",
+   "y": 0,
+   "index": 0,
+   "skx": 0,
+   "type": "img_mc",
+   "sy": 1,
+   "r": 0
+  },
+  {
+   "path": "2vmx.png",
+   "pn": "",
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "sx": 1,
+   "bn": "normal",
+   "sky": 0,
+   "x": 465,
+   "n": "btnClose",
+   "y": 97,
+   "index": 1,
+   "skx": 0,
+   "type": "img_mc",
+   "sy": 1,
+   "r": 0
+  },
+  {
+   "path": "sctswz_2.png",
+   "pn": "",
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "sx": 1,
+   "bn": "normal",
+   "sky": 0,
+   "x": 43,
+   "n": "text",
+   "y": 375,
+   "index": 2,
+   "skx": 0,
+   "type": "img_mc",
+   "sy": 1,
+   "r": 0
+  },
+  {
+   "path": "btn_qd.png",
+   "pn": "",
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "sx": 1,
+   "bn": "normal",
+   "sky": 0,
+   "x": 193,
+   "n": "btnSure",
+   "y": 566,
+   "index": 3,
+   "skx": 0,
+   "type": "img_mc",
+   "sy": 1,
+   "r": 0
+  }
+ ],
+ "version": 3
+}

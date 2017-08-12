@@ -1,0 +1,116 @@
+{
+ "uiConfig": {
+  "numchild": 4,
+  "height": 726,
+  "width": 544.3
+ },
+ "list": [
+  {
+   "path": "txqr_bg.png",
+   "sky": 0,
+   "skx": 0,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "index": 0,
+   "x": 0,
+   "sy": 1,
+   "y": 0,
+   "sx": 1,
+   "type": "img_mc",
+   "bn": "normal",
+   "n": "pushWnd",
+   "r": 0,
+   "pn": ""
+  },
+  {
+   "path": "btn_txqr.png",
+   "sky": 0,
+   "skx": 0,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "index": 1,
+   "x": 163,
+   "sy": 1,
+   "y": 445,
+   "sx": 1,
+   "type": "img_mc",
+   "bn": "normal",
+   "n": "pushBnt",
+   "r": 0,
+   "pn": ""
+  },
+  {
+   "path": "colse.png",
+   "sky": 0,
+   "skx": 0,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "index": 2,
+   "x": 464,
+   "sy": 1,
+   "y": 16,
+   "sx": 1,
+   "type": "img_mc",
+   "bn": "normal",
+   "n": "closeBnt",
+   "r": 0,
+   "pn": ""
+  },
+  {
+   "path": "wupin1.png",
+   "sky": 0,
+   "skx": 0,
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "index": 3,
+   "x": 160,
+   "sy": 1,
+   "y": 148,
+   "sx": 1,
+   "type": "img_mc",
+   "bn": "normal",
+   "n": "wp",
+   "r": 0,
+   "pn": ""
+  }
+ ],
+ "version": 3,
+ "imageArr": [
+  "txqr_bg.png",
+  "btn_txqr.png",
+  "colse.png",
+  "wupin1.png"
+ ]
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="Scene1Item" width="454" height="68" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing">
+	<e:Image source="{data.source}"/>
+	<e:Label size="20" left="0" textAlign="right" text="{data.txt0}" verticalCenter="0" textColor="0xdb5200" anchorOffsetX="0" width="113.5"/>
+	<e:Label size="20" textAlign="center" text="{data.txt1}" horizontalCenter="10" verticalCenter="0" textColor="0xdb5200"/>
+	<e:Label size="20" right="0" textAlign="center" verticalCenter="0" textColor="0xdb5200" anchorOffsetX="0" width="115" text="{data.txt2}"/>
+</e:Skin>

@@ -1,0 +1,64 @@
+{
+ "imageArr": [
+  "fs2vm_bg.png",
+  "2vmx.png"
+ ],
+ "list": [
+  {
+   "path": "fs2vm_bg.png",
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "pn": "",
+   "index": 0,
+   "sy": 1,
+   "x": 0,
+   "n": "QCodeDistinguish",
+   "sky": 0,
+   "sx": 1,
+   "type": "img_mc",
+   "bn": "normal",
+   "y": 0,
+   "r": 0,
+   "skx": 0
+  },
+  {
+   "path": "2vmx.png",
+   "c": [
+    1,
+    0,
+    1,
+    0,
+    1,
+    0,
+    1,
+    0
+   ],
+   "pn": "",
+   "index": 1,
+   "sy": 1,
+   "x": 470,
+   "n": "closeBnt",
+   "sky": 0,
+   "sx": 1,
+   "type": "img_mc",
+   "bn": "normal",
+   "y": 3,
+   "r": 0,
+   "skx": 0
+  }
+ ],
+ "version": 3,
+ "uiConfig": {
+  "height": 878,
+  "numchild": 2,
+  "width": 540
+ }
+}
